@@ -10,3 +10,8 @@ Before you begin, ensure you have the following installed:
 - pip (Python package installer)
 
 
+## Install the required packages:
+
+You can install the necessary libraries using pip.
+
+pip `install` azure-ai-textanalytics python-dotenv

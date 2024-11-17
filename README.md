@@ -35,3 +35,7 @@ Replace `<your-ai-service-endpoint> and <your-ai-service-key>` with your actual 
 ## Analyze text file in the reviews folder
 
 ![Screenshot 2024-11-11 124758](https://github.com/user-attachments/assets/56ee367c-e345-4c26-be91-a3fbd28d4ec8)
+
+![Screenshot 2024-11-11 124739](https://github.com/user-attachments/assets/de1de66f-4b74-49ca-9faf-80a545acf4aa)
+
+![Screenshot 2024-11-11 124632](https://github.com/user-attachments/assets/d7b82840-935d-4a94-bae1-29bd72d812b0)

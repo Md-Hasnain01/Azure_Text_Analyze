@@ -14,5 +14,5 @@ Before you begin, ensure you have the following installed:
 
 You can install the necessary libraries using pip.
 ```
-pip `install` azure-ai-textanalytics python-dotenv
+pip install azure-ai-textanalytics python-dotenv
 ```

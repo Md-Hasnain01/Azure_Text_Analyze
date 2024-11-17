@@ -88,9 +88,9 @@ example_review.txt
 
 This is an example review text.
 
-Language: English
+Language: English/French
 
-Sentiment: Positive
+Sentiment: Positive/Negative/mixed
 
 Key Phrases:
     - example

@@ -39,3 +39,7 @@ Replace `<your-ai-service-endpoint> and <your-ai-service-key>` with your actual 
 ![Screenshot 2024-11-11 124739](https://github.com/user-attachments/assets/de1de66f-4b74-49ca-9faf-80a545acf4aa)
 
 ![Screenshot 2024-11-11 124632](https://github.com/user-attachments/assets/d7b82840-935d-4a94-bae1-29bd72d812b0)
+
+## Getting Language
+
+![Screenshot 2024-11-11 125411](https://github.com/user-attachments/assets/b378504a-b162-4104-be35-d6a43a413f71)

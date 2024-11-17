@@ -53,3 +53,11 @@ Replace `<your-ai-service-endpoint> and <your-ai-service-key>` with your actual 
 ![Screenshot 2024-11-11 125835](https://github.com/user-attachments/assets/0df9f3b0-1686-4fde-807c-4c7c44e015f7)
 
 ![Screenshot 2024-11-11 125904](https://github.com/user-attachments/assets/011f1c3e-1008-4ad9-af71-506d7a6984ea)
+
+## Getting Entities
+
+![Screenshot 2024-11-11 125927](https://github.com/user-attachments/assets/33fcf2b6-e003-487f-a95b-7d6677cc1be1)
+
+![Screenshot 2024-11-11 125943](https://github.com/user-attachments/assets/d22571a0-5f5f-4f65-8921-a7323027e53c)
+
+![Screenshot 2024-11-11 130010](https://github.com/user-attachments/assets/67a2eaee-a685-498c-91c1-952a12564902)

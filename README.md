@@ -16,3 +16,21 @@ You can install the necessary libraries using pip.
 ```
 pip install azure-ai-textanalytics python-dotenv
 ```
+
+
+## Set up environment variables:
+
+Create a `.env` file in the root directory of your project and add your Azure Text Analytics credentials:
+
+```
+AI_SERVICE_ENDPOINT=<your-ai-service-endpoint>
+AI_SERVICE_KEY=<your-ai-service-key>
+```
+
+Replace `<your-ai-service-endpoint> and <your-ai-service-key>` with your actual Azure Text Analytics service endpoint and key.
+
+
+# OUTPUT
+
+## Analyze text file in the reviews folder
+

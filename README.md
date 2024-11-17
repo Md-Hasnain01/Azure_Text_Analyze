@@ -42,7 +42,7 @@ Replace `<your-ai-service-endpoint> and <your-ai-service-key>` with your actual 
 
 ## Getting Language
 
-![Screenshot 2024-11-11 125816](https://github.com/user-attachments/assets/6cfd5e23-f27c-4e08-ac2f-fa92eae012b8)
+![Screenshot 2024-11-11 125411](https://github.com/user-attachments/assets/905cbc56-5007-4469-ab38-c425a0b5d96f)
 
 ## Sentiment and key phrases
 

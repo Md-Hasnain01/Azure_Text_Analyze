@@ -65,3 +65,14 @@ Replace `<your-ai-service-endpoint> and <your-ai-service-key>` with your actual 
 ## Link Entities
 
 ![Screenshot 2024-11-11 130415](https://github.com/user-attachments/assets/23088874-30c9-46ba-9bc3-c9967c0f9585)
+
+
+## Usage
+
+Run the script to analyze the text files in the reviews folder:
+
+```
+python your_script_name.py
+```
+
+Replace `ur_script_name.py` with the actual name of your Python script.

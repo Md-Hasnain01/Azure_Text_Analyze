@@ -77,3 +77,29 @@ python your_script_name.py
 ```
 
 Replace `ur_script_name.py` with the actual name of your Python script.
+
+## Example
+
+When running the script, you will see output similar to:
+
+```
+-------------
+example_review.txt
+
+This is an example review text.
+
+Language: English
+
+Sentiment: Positive
+
+Key Phrases:
+    - example
+    - review
+
+Entities
+    - example_entity (Category)
+
+Links
+    - example_link (http://example.com)
+```
+

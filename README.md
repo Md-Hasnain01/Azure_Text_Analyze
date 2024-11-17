@@ -44,10 +44,9 @@ Replace `<your-ai-service-endpoint> and <your-ai-service-key>` with your actual 
 
 ![Screenshot 2024-11-11 125411](https://github.com/user-attachments/assets/905cbc56-5007-4469-ab38-c425a0b5d96f)
 
+![Screenshot 2024-11-11 125411](https://github.com/user-attachments/assets/ae812a8e-45d4-44b1-98a7-f8de6e291210)
+
 ## Sentiment and key phrases
 
 ![Screenshot 2024-11-11 125652](https://github.com/user-attachments/assets/445287f4-a383-4255-9f46-d74bead2d9a6)
 
-![Screenshot 2024-11-11 125138](https://github.com/user-attachments/assets/9e9d7a81-4034-45bd-b2b6-b1c1814b6384)
-
-![Screenshot 2024-11-11 125411](https://github.com/user-attachments/assets/ae812a8e-45d4-44b1-98a7-f8de6e291210)
